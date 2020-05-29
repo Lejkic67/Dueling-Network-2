@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <Name>BlueEyes White Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dark Magician</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Summoned Skull</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Gaia the Fierce Knight</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Baby Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Mystic Horseman</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>RedEyes B Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Feral Imp</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Mystical Elf</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>JudgeMan</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Ancient Elf</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Battle Ox</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Beaver Warrior</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dark Assailant</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Celtic Guardian</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Curse of Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Mystic Clown</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Swordstalker</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>La Jinn the Mystical Genie of the Lamp</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Ryu Kishin</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Ryu Kishin Powered</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Rude Kaiser</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Koumori Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Giant Soldier of Stone</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Doma the Angel of Silence</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Masaki the Legendary Swordsman</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Ogre of the Black Shadow</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Big Eye</Name>
+    <Effect>FLIP: Look at the top 5 cards of your Deck, then place them on top of the Deck in any order</Effect>
+    <ImagePath />
+    <TipK>EffectMonster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>HaneHane</Name>
+    <Effect>FLIP: Return 1 monster on the field to it's owner hand</Effect>
+    <ImagePath />
+    <TipK>EffectMonster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Time Wizard</Name>
+    <Effect>Once per turn: Flip a coin, and call it. If you call it right destroy all monsters your opponent controls, if you call it wrong destroy all monsters you control.</Effect>
+    <ImagePath />
+    <TipK>EffectMonster</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Block Attack</Name>
+    <Effect>Select 1 Attack position monster on the field. Change it's position to defense.</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Change of Hearth</Name>
+    <Effect>Select 1 monster your opponent controls. Take control of it until the End Phase</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dark Energy</Name>
+    <Effect>Select 1 DARK monster on the field. Increase it's ATK by 500</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dark Hole</Name>
+    <Effect>Destroy all monsters on the field</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>DeSpell</Name>
+    <Effect>Negate effect of one Spell card on the field.</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dian Keto the Cure Master</Name>
+    <Effect>Increase your life points by 1000.</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Monster Reborn</Name>
+    <Effect>Target 1 monster in either players Graveyard. Special summon it to your side of the field</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Mountain</Name>
+    <Effect>Increase the ATK and DEF of all EARTH monsters on the field by 300</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Yami</Name>
+    <Effect>Increase the ATK and DEF of all DARK monsters on the field by 300</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Scapegoat</Name>
+    <Effect>Special summon 4 tokens to your side of the field</Effect>
+    <ImagePath />
+    <TipK>Spell</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Just Desserts</Name>
+    <Effect>Your opponent loses 500 life points for each monster on the field.</Effect>
+    <ImagePath />
+    <TipK>Trap</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Seven Tools of the Bandit</Name>
+    <Effect>Negate the activation of your opponents Trap card</Effect>
+    <ImagePath />
+    <TipK>Trap</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Trap Hole</Name>
+    <Effect>Activate this card when your opponent Normal summons a monster. Destroy it.</Effect>
+    <ImagePath />
+    <TipK>Trap</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Ultimate Offering</Name>
+    <Effect>During your Main Phase 1, you can sacrifice 500 life points to normal summon again.</Effect>
+    <ImagePath />
+    <TipK>Trap</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Waboku</Name>
+    <Effect>Negate your opponents attack, and end their Battle Phase.</Effect>
+    <ImagePath />
+    <TipK>Trap</TipK>
+    <Lokacija>Main</Lokacija>
+  </Card>
+  <Card>
+    <Name>Dark Paladin</Name>
+    <Effect>This card gains 500 ATK points for each Dragon-type monster on the field and in both players Graveyards</Effect>
+    <ImagePath />
+    <TipK>EffectMonster</TipK>
+    <Lokacija>Extra</Lokacija>
+  </Card>
+  <Card>
+    <Name>BlueEyes Ultimate Dragon</Name>
+    <Effect>This card has no effect</Effect>
+    <ImagePath />
+    <TipK>Monster</TipK>
+    <Lokacija>Extra</Lokacija>
+  </Card>
+</ArrayOfCard>

@@ -1,0 +1,24 @@
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.exe.config
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.exe
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.pdb
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csprojAssemblyReference.cache
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmLogIn.resources
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.Properties.Resources.resources
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csproj.GenerateResource.cache
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csproj.CoreCompileInputs.cache
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.exe
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.pdb
+C:\Users\atemd\source\repos\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmSignUp.resources
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.exe.config
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.exe
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\bin\Debug\200424 YuGiOh PoC Lejkic Edition.pdb
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csprojAssemblyReference.cache
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmLogIn.resources
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmSignUp.resources
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.Properties.Resources.resources
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csproj.GenerateResource.cache
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.csproj.CoreCompileInputs.cache
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.exe
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\200424 YuGiOh PoC Lejkic Edition.pdb
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmStartUp.resources
+C:\Users\atemd\Desktop\200424 YuGiOh PoC Lejkic Edition\200424 YuGiOh PoC Lejkic Edition\obj\Debug\_200424_YuGiOh_PoC_Lejkic_Edition.FrmMyDecks.resources

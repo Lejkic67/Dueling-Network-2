@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDeck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Deck>
+    <Name>Lejkic67.dada</Name>
+    <Main>
+      <Card>
+        <Name>Ancient Elf</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Baby Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Battle Ox</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+    </Main>
+    <Extra>
+      <Card>
+        <Name>BlueEyes Ultimate Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Extra</Lokacija>
+      </Card>
+    </Extra>
+  </Deck>
+  <Deck>
+    <Name>Lejkic67.dadas</Name>
+    <Main>
+      <Card>
+        <Name>Ancient Elf</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Baby Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Battle Ox</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>BlueEyes White Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+    </Main>
+    <Extra>
+      <Card>
+        <Name>BlueEyes Ultimate Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Extra</Lokacija>
+      </Card>
+    </Extra>
+  </Deck>
+  <Deck>
+    <Name>Lejkic67.dadas</Name>
+    <Main>
+      <Card>
+        <Name>Ancient Elf</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Baby Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>Battle Ox</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+      <Card>
+        <Name>BlueEyes White Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Main</Lokacija>
+      </Card>
+    </Main>
+    <Extra>
+      <Card>
+        <Name>BlueEyes Ultimate Dragon</Name>
+        <Effect>This card has no effect</Effect>
+        <ImagePath />
+        <TipK>Monster</TipK>
+        <Lokacija>Extra</Lokacija>
+      </Card>
+    </Extra>
+  </Deck>
+</ArrayOfDeck>
